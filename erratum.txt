@@ -3,4 +3,6 @@
 => More importantly, the right is wrong on the right-hand side: it should be $F_1 \cos \alpha$, not $-F_1 \cos \alpha$. [Thank you to Nishant Gaurav for pointing this out]
 The incorrect sign is clear: if there is a mass on the inclined plane, then $F_2$ must be larger than $M g$ to make up for the extra force of gravity.
 
+- Equation 2.77 has a typo: the argument of the arcsin should have a square root: y(x)=-\sqrt{x(2r-x)}+2 r arcsin(\sqrt{x/(2 r)}).
+
 - There are multiple misspelled words, but keeping track of those is not necessary.
